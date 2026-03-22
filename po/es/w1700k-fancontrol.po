@@ -66,7 +66,7 @@ msgstr "Vista previa de la curva"
 
 #: applications/luci-app-w1700k-fancontrol/htdocs/luci-static/resources/view/fan/settings.js:166
 msgid "Custom - Define your own curve"
-msgstr "Personalizado: defina su propia curva"
+msgstr "Personalizado - Defina su propia curva"
 
 #: applications/luci-app-w1700k-fancontrol/htdocs/luci-static/resources/view/fan/settings.js:179
 msgid "Custom Curve Editor"
@@ -74,8 +74,7 @@ msgstr "Editor de curvas personalizado"
 
 #: applications/luci-app-w1700k-fancontrol/htdocs/luci-static/resources/view/fan/settings.js:180
 msgid "Define temperature thresholds and corresponding fan speeds."
-msgstr ""
-"Definir umbrales de temperatura y velocidades de ventilador correspondientes."
+msgstr "Definir umbrales de temperatura y velocidades de ventilador correspondientes."
 
 #: applications/luci-app-w1700k-fancontrol/root/usr/share/luci/menu.d/luci-app-w1700k-fancontrol.json:3
 msgid "Fan Control"
@@ -124,7 +123,7 @@ msgstr "Modo"
 
 #: applications/luci-app-w1700k-fancontrol/htdocs/luci-static/resources/view/fan/settings.js:165
 msgid "Performance - Higher speeds, lower temps"
-msgstr "Rendimiento: mayores velocidades, temperaturas más bajas"
+msgstr "Rendimiento - Mayores velocidades, temperaturas más bajas"
 
 #: applications/luci-app-w1700k-fancontrol/htdocs/luci-static/resources/view/fan/settings.js:202
 msgid "Point %d PWM (0-255)"
@@ -140,8 +139,7 @@ msgstr "Tranquilo - velocidades más bajas, temperaturas más altas"
 
 #: applications/luci-app-w1700k-fancontrol/htdocs/luci-static/resources/view/fan/settings.js:155
 msgid "Set a fixed PWM value (0-255). 0 = Off, 255 = Full Speed"
-msgstr ""
-"Establezca un valor PWM fijo (0-255). 0 = Apagado, 255 = Velocidad máxima"
+msgstr "Establezca un valor PWM fijo (0-255). 0 = Apagado, 255 = Velocidad máxima"
 
 #: applications/luci-app-w1700k-fancontrol/root/usr/share/luci/menu.d/luci-app-w1700k-fancontrol.json:22
 msgid "Settings"
