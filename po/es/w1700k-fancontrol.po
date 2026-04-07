@@ -135,7 +135,7 @@ msgstr "Punto %d de temperatura (°C)"
 
 #: applications/luci-app-w1700k-fancontrol/htdocs/luci-static/resources/view/fan/settings.js:163
 msgid "Quiet - Lower speeds, higher temps"
-msgstr "Tranquilo - velocidades más bajas, temperaturas más altas"
+msgstr "Tranquilo - Velocidades más bajas, temperaturas más altas"
 
 #: applications/luci-app-w1700k-fancontrol/htdocs/luci-static/resources/view/fan/settings.js:155
 msgid "Set a fixed PWM value (0-255). 0 = Off, 255 = Full Speed"
